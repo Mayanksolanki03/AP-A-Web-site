@@ -118,12 +118,13 @@ export default function Home() {
                 <div className="expertise-list">
                   <h5>Services @ AP&A System</h5>
                   <ul className="check-list">
-                     <li><a href="/services/social-media-management">Social Media Management</a></li>
+                     
+                     <li><a href="/services/it-solutions">IT Solutions</a></li>
                       <li><a href="/services/hr-recruitment">HR Recruitement</a></li>
+                      <li><a href="/services/social-media-management">Social Media Management</a></li>
                       <li><a href="/services/branding-marketing">Branding & Marketing</a></li>
                       <li><a href="/services/digital-marketing">Digital Marketing</a></li>
                       <li><a href="/services/annual-support-maintenance">Annual Support Maintainance</a></li>
-                      <li><a href="/services/it-solutions">IT Solutions</a></li>
                   </ul>
                 </div>
                 <div
